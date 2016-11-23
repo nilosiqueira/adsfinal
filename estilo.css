@@ -12,7 +12,7 @@ float:left;
 }
 
 .menu li{
-position:relative; 
+position:static; 
 float:left; 
 border-right:1px solid #c0c0c0; 
 }
